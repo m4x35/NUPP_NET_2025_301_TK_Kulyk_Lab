@@ -2,4 +2,5 @@
   <Project Path="SimpleLibrary.Common/SimpleLibrary.Common.csproj" />
   <Project Path="SimpleLibrary.Console/SimpleLibrary.Console.csproj" />
   <Project Path="SimpleLibrary.Infrastructure/SimpleLibrary.Infrastructure.csproj" />
+  <Project Path="SimpleLibrary.REST/SimpleLibrary.REST.csproj" />
 </Solution>

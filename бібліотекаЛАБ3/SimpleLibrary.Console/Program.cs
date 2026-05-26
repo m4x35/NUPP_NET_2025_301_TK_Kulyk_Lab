@@ -12,7 +12,7 @@ await context.Database.MigrateAsync();
 
 var repository = new Repository<BookModel>(context);
 
-var service = new DatabaseCrudServiceAsync(repository);
+var service = new DatabaseCrudServiceAsync<BookModel>(repository);
 
 Console.WriteLine("=== Лабораторна робота №3 ===");
 Console.WriteLine("Entity Framework + SQLite + Repository");
