@@ -10,4 +10,3 @@ public class BookResponse
     public int Pages { get; set; }
     public string Genre { get; set; } = string.Empty;
 }
-}
