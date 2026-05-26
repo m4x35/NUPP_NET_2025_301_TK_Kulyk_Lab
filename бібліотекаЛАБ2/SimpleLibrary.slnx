@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="SimpleLibrary.Common/SimpleLibrary.Common.csproj" />
-  <Project Path="SimpleLibrary.Console/SimpleLibrary.Console.csproj" />
-</Solution>
